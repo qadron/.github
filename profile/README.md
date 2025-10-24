@@ -18,6 +18,7 @@ _(Cuboid & Peplum projects can be ignored, as they are not still actively mainta
     * Certificate (RAKTR_TLS_CERTIFICATE)
 * Process communications facilitated via RPC -- offered by Toq.
 * Set your Nodes in place via Shared Data, Groups and Channels across their grid -- offered by Tiq.
+* Manage and monitor your resource usage (disk, memory) for on the money provisioning and keeping by your application's runtime requirements -- offered by Slotz.
 * Ruby friendliness + any extension as your distributed payload.
 
 **=> Everything is possible.**
