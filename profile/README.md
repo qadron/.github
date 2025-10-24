@@ -17,7 +17,7 @@ _(Cuboid & Peplum projects can be ignored, as they are not still actively mainta
     * Private Key (RAKTR_TLS_PRIVATE_KEY)
     * Certificate (RAKTR_TLS_CERTIFICATE)
 * Process communications facilitated via RPC -- offered by Toq.
-  * Set your Nodes in place via Shared Data, Groups and Channels across their grid -- offered by Tiq.
+* Set your Nodes in place via Shared Data, Groups and Channels across their grid -- offered by Tiq.
 * Ruby friendliness + any extension as your distributed payload.
 
 **=> Everything is possible.**
