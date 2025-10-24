@@ -2,7 +2,7 @@
 
 **An effort to make distributed computing a joy!**
 
-_(Cuboid, Peplum, etc. projects can be ignored, as they are not still actively maintained under the Qadron umbrella.)_
+_(Cuboid & Peplum projects can be ignored, as they are not still actively maintained under the Qadron umbrella.)_
 
 <!--
 
