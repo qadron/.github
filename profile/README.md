@@ -2,23 +2,27 @@
 
 **An effort to make distributed computing a joy!**
 
-_(Cuboid & Peplum projects can be ignored, as they are not still actively maintained under the Qadron umbrella.)_
+_([Cuboid](https://github.com/qadron/cuboid) & [Peplum](https://github.com/peplum) projects can be ignored,
+as they are not still actively maintained.)_
 
-## GlooX
-**The pride & joy, add sum of Qadron!**
+## [GlooX](https://github.com/qadron/gloox)
 
-* Agent-like deployments, to facilitate Process spawning on remote Nodes -- offered by GlooX.
+**The pride & joy, add sum of [Qadron](https://github.com/qadron)!**
+
+* Agent-like deployments, to facilitate Process spawning on remote Nodes -- offered by [GlooX](https://github.com/qadron/gloox).
   * Auto load-balancing of Process spawns.
-* Creation of networked Nodes --- offered by Tiq.
+* Creation of networked Nodes --- offered by [Tiq](https://github.com/qadron/tiq).
   * Nodes in grid/cluster configurations.
-* TLS covering all communications -- offered by Raktr.
-  * 3 environment variables will have you sleeping safe and sound:
+* TLS covering all communications -- offered by [Raktr](https://github.com/qadron/raktr).
+  * 4 environment variables will have you sleeping safe and sound:
     * Certificate Authority (RAKTR_TLS_CA)
     * Private Key (RAKTR_TLS_PRIVATE_KEY)
+    * Public Key (RAKTR_TLS_PUBLIC_KEY)
     * Certificate (RAKTR_TLS_CERTIFICATE)
-* Process communications facilitated via RPC -- offered by Toq.
-* Set your Nodes in place via Shared Data, Groups and Channels across their grid -- offered by Tiq.
-* Manage and monitor your resource usage (disk, memory) for on the money provisioning and keeping by your application's runtime requirements -- offered by Slotz.
+* Process communications facilitated via RPC -- offered by [Toq](https://github.com/qadron/toq).
+* Set your Nodes in place via Shared Data, Groups and Channels across their grid -- offered by [Tiq](https://github.com/qadron/tiq).
+* Manage and monitor your resource usage (disk, memory) for on the money provisioning and keeping by your application's
+    runtime requirements -- offered by [Slotz](https://github.com/qadron/slotz).
 * Ruby friendliness + any extension as your distributed payload.
 
 **=> Everything is possible.**
