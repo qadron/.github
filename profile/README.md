@@ -15,16 +15,15 @@ as they are not still actively maintained.)_
   * Nodes in grid/cluster configurations.
 * TLS covering all communications -- offered by [Raktr](https://github.com/qadron/raktr).
   * 7 environment variables will have you sleeping safe and sound:
-
-* Certificate Authority (`RAKTR_TLS_CA`)
-* Server
-  * Certificate (`RAKTR_TLS_SERVER_CERTIFICATE`)
-  * Private Key (`RAKTR_TLS_SERVER_PRIVATE_KEY`)
-  * Public Key (`RAKTR_TLS_SERVER_PUBLIC_KEY`)
-* Client
-  * Certificate (`RAKTR_TLS_CLIENT_CERTIFICATE`)
-  * Private Key (`RAKTR_TLS_CLIENT_PRIVATE_KEY`)
-  * Public Key (`RAKTR_TLS_CLIENT_PUBLIC_KEY`)
+    * Certificate Authority (`RAKTR_TLS_CA`)
+      * Server
+        * Certificate (`RAKTR_TLS_SERVER_CERTIFICATE`)
+        * Private Key (`RAKTR_TLS_SERVER_PRIVATE_KEY`)
+        * Public Key (`RAKTR_TLS_SERVER_PUBLIC_KEY`)
+      * Client
+        * Certificate (`RAKTR_TLS_CLIENT_CERTIFICATE`)
+        * Private Key (`RAKTR_TLS_CLIENT_PRIVATE_KEY`)
+        * Public Key (`RAKTR_TLS_CLIENT_PUBLIC_KEY`)
 * Process communications facilitated via RPC -- offered by [Toq](https://github.com/qadron/toq).
 * Set your Nodes in place via Shared Data, Groups and Channels across their grid -- offered by [Tiq](https://github.com/qadron/tiq).
 * Manage and monitor your resource usage (disk, memory) for on the money provisioning and keeping by your application's
