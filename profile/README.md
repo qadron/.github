@@ -2,9 +2,6 @@
 
 **An effort to make distributed computing a joy!**
 
-_([Cuboid](https://github.com/qadron/cuboid) & [Peplum](https://github.com/peplum) projects can be ignored,
-as they are not still actively maintained.)_
-
 ## [GlooX](https://github.com/qadron/gloox)
 
 **The pride & joy, add sum of [Qadron](https://github.com/qadron)!**
